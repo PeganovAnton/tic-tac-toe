@@ -4,3 +4,6 @@ venv/
 .ipynb_checkpoints/
 save/
 *.json
+build/
+dist/
+tic_tac_toe.spec
