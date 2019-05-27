@@ -1,7 +1,7 @@
 import tkinter as tk
 
-from frame import MainFrame
-from game import Game
+from tic_tac_toe.frame import MainFrame
+from tic_tac_toe.game import Game
 
 
 def set_window(root):
